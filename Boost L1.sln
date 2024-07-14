@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boost L1", "Boost L1\Boost L1.csproj", "{C5F1D389-C45A-487E-B941-E61FEF2B58C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRApp", "..\HRApp\HRApp.csproj", "{F28751CA-318C-4E18-BD1E-D3753B80851F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoostL2", "BoostL2\BoostL2.csproj", "{D7B53BD3-6BAA-4635-82A2-23AF32935263}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{C5F1D389-C45A-487E-B941-E61FEF2B58C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5F1D389-C45A-487E-B941-E61FEF2B58C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5F1D389-C45A-487E-B941-E61FEF2B58C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28751CA-318C-4E18-BD1E-D3753B80851F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28751CA-318C-4E18-BD1E-D3753B80851F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28751CA-318C-4E18-BD1E-D3753B80851F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28751CA-318C-4E18-BD1E-D3753B80851F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B53BD3-6BAA-4635-82A2-23AF32935263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B53BD3-6BAA-4635-82A2-23AF32935263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B53BD3-6BAA-4635-82A2-23AF32935263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B53BD3-6BAA-4635-82A2-23AF32935263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

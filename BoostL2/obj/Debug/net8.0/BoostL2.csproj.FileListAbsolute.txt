@@ -1,0 +1,15 @@
+/Users/mursal/Projects/Boost L1/BoostL2/bin/Debug/net8.0/BoostL2
+/Users/mursal/Projects/Boost L1/BoostL2/bin/Debug/net8.0/BoostL2.deps.json
+/Users/mursal/Projects/Boost L1/BoostL2/bin/Debug/net8.0/BoostL2.runtimeconfig.json
+/Users/mursal/Projects/Boost L1/BoostL2/bin/Debug/net8.0/BoostL2.dll
+/Users/mursal/Projects/Boost L1/BoostL2/bin/Debug/net8.0/BoostL2.pdb
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/BoostL2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/BoostL2.AssemblyInfoInputs.cache
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/BoostL2.AssemblyInfo.cs
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/BoostL2.csproj.CoreCompileInputs.cache
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/BoostL2.sourcelink.json
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/BoostL2.dll
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/refint/BoostL2.dll
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/BoostL2.pdb
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/BoostL2.genruntimeconfig.cache
+/Users/mursal/Projects/Boost L1/BoostL2/obj/Debug/net8.0/ref/BoostL2.dll

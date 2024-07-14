@@ -1,4 +1,4 @@
-namespace Boost_L1
+namespace BoostL1
 {
     public static class Lesson1
     {
@@ -54,6 +54,16 @@ namespace Boost_L1
                 return Task3(n,f);
             }   
             return f;
+        }
+        public static string Task4(string input)
+        {
+            int sum = 0;
+            for(int i = 1; i<=input.Length; i++)
+            {
+                sum += input[i]*i;
+            }
+            
+            return string.Empty;
         }
         public static (int max, int min) Task5(List<int> n)
         {

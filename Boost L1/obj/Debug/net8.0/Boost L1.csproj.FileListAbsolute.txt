@@ -12,3 +12,4 @@
 /Users/mursal/Projects/Boost L1/Boost L1/obj/Debug/net8.0/Boost L1.pdb
 /Users/mursal/Projects/Boost L1/Boost L1/obj/Debug/net8.0/Boost L1.genruntimeconfig.cache
 /Users/mursal/Projects/Boost L1/Boost L1/obj/Debug/net8.0/ref/Boost L1.dll
+/Users/mursal/Projects/Boost L1/Boost L1/obj/Debug/net8.0/Boost L1.sourcelink.json

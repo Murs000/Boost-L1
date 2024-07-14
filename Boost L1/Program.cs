@@ -1,6 +1,6 @@
-﻿using Boost_L1;
+﻿using BoostL1;
 
-while(true){
+while (true){
     Console.WriteLine("Choose Option");
     Console.WriteLine("Write number of task");
     int n = Convert.ToInt32(Console.ReadLine());
@@ -11,7 +11,7 @@ while(true){
             int digits = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Write Lengh of Combination :");
             int lengh = Convert.ToInt32(Console.ReadLine());
-            List<int> combinations = Lesson1.Task1(digits,lengh);
+            List<int> combinations = Lesson2.Task1(digits,lengh);
             foreach(int conbin in combinations)
             {
                 Console.Write(conbin + " ");
