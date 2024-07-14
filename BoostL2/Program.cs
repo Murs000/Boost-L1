@@ -12,9 +12,9 @@ while(true){
             Console.WriteLine("ex:7 4 2 9 12 1 2");
             string input1 = Console.ReadLine();
             var result1 = Lesson2.Task1(input1.Split().Select(int.Parse).ToArray());
-            foreach(var reslut in result1)
+            foreach(var resuslt in result1)
             {
-                Console.Write(result1+" ");
+                Console.Write(resuslt+" ");
             }
             Console.WriteLine();
             break;
@@ -27,6 +27,7 @@ while(true){
             Console.WriteLine("ex:1 45 23 42 67 98 2");
             string input3 = Console.ReadLine();
             var result3 = Lesson2.Task3(input3.Split().Select(int.Parse).ToList());
+            Console.WriteLine(result3);
             break;
         case 4:
             Console.WriteLine("Write Numbers:");

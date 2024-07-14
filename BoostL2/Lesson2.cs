@@ -4,22 +4,34 @@ namespace BoostL2
     {
         public static int[] Task1(int[] arr)
         {
-            var evens = new List<int>();
             for(int i=0;i<arr.Length;i++)
             {
-                //proqram 0 dan sayir ona gore ! var
-                if(!(i%2==0))
+                for(int j=0;j<arr.Length;j++)
                 {
-                    evens.Add(arr[i]);
+                    if( i%2!=0 && j%2!=0)
+                    {
+                        if(arr[i]<arr[j])
+                        {
+                            int c = arr[i];
+                            arr[i] = arr[j];
+                            arr[j] = c;
+                        }
+                    }
                 }
             }
-            evens.Sort();
-            return evens.ToArray();
+
+            return arr;
         }
         //Eyer bult in metodlarla deyil ozumuz yazmaliyiqsa bildirersiz zehmet olmasa
         public static bool Task2(string word)
         {
-            if(word == word.Reverse().ToString())
+            var wordReverseArr = word.Reverse().ToArray();
+            string wordReverse =  "";
+            foreach(var w in wordReverseArr)
+            {
+                wordReverse += w;
+            }
+            if(word == wordReverse)
             {
                 return true;
             }
@@ -30,7 +42,9 @@ namespace BoostL2
         }
         public static int Task3(List<int> list)
         {
-            return (list.Max() - 1) - (list.Min() +1);
+            var max = list.Max() - 1;
+            var min = list.Min() +1;
+            return max - min;
         }
         public static int[,] Task4(int[,] arr)
         {
