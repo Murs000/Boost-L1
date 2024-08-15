@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoostL2", "BoostL2\BoostL2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoostL3", "BoostL3\BoostL3.csproj", "{BC4FF295-94FF-4CDD-899B-FA3E27B7B08B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoostL4", "BoostL4\BoostL4.csproj", "{C1F5D6EE-A4E2-48CF-BABA-FB9084FA8409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoostL5", "BoostL5\BoostL5.csproj", "{FD4DD30C-0B8B-40E6-A552-6ADB696B4A22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{BC4FF295-94FF-4CDD-899B-FA3E27B7B08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC4FF295-94FF-4CDD-899B-FA3E27B7B08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC4FF295-94FF-4CDD-899B-FA3E27B7B08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F5D6EE-A4E2-48CF-BABA-FB9084FA8409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F5D6EE-A4E2-48CF-BABA-FB9084FA8409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F5D6EE-A4E2-48CF-BABA-FB9084FA8409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F5D6EE-A4E2-48CF-BABA-FB9084FA8409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4DD30C-0B8B-40E6-A552-6ADB696B4A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4DD30C-0B8B-40E6-A552-6ADB696B4A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4DD30C-0B8B-40E6-A552-6ADB696B4A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4DD30C-0B8B-40E6-A552-6ADB696B4A22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

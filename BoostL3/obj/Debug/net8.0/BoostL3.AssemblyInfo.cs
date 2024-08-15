@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BoostL3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80c389a414b84c61d303b63300db90217719c457")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13237066487a85c49f2aab71a30cdb900a8d4668")]
 [assembly: System.Reflection.AssemblyProductAttribute("BoostL3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BoostL3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
